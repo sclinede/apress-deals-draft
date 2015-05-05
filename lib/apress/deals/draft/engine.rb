@@ -9,5 +9,7 @@
 #
 #   - Если рубрика скрыта, распродажа перепривязывается к родительской рубрике.
 #
-# [RUBRICATOR] Here we must connect rubricator gem if exists !
+# [RUBRICATOR] Here we must link rubricator gem if exists !
+#
+# [LIKES] Here we must link acts_as_likable gem for likes/dislikes functionality
 #
